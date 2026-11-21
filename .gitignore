@@ -1,0 +1,5 @@
+.godot/
+*.exe
+tools/godot_windows_template_release_min.exe
+build/
+*.zip
